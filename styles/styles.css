@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', arial, sans-serif;
+    padding: 5% 30%;
+}
+
+label {
+    font-weight: bold;
+}
+
+div {
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 150px;
+}
+
+p {
+    background: #FFC125;
+    color: #5E2612;
+    padding: 25px;
+    border-radius: 17px;
+    visibility: hidden;
+}
